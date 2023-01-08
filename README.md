@@ -8,7 +8,7 @@ Primeira utilização do framework Fast API - Implementação de uma "api" super
 
 Utilizar o Postman ou Insomnia para realizar as requests!
 
-⏬ GET /home
+⏬ GET /vendas
 
 ⏬ GET /vendas/{id_venda}
 
