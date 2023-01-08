@@ -1,6 +1,6 @@
 # Primeira utilização do framework FastAPI
 
-Primeira utilização do framework Fast API - Implementação de uma "api" super simples com apenas dois recursos
+Primeira utilização do framework Fast API - Implementação de uma "api" super simples com apenas dois recursos (rotas/endpoints)
 
 Documentação do FastAPI: https://fastapi.tiangolo.com/
 
