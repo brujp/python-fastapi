@@ -4,6 +4,8 @@ Primeira utilização do framework Fast API - Implementação de uma "api" super
 
 ✅ Para acessar a documentação (Swagger), rodar a aplicação localmente e acessar: http://localhost:8000/docs
 
+⏯ Para rodar a aplicação, foi utilizado o uvicorn como servidor local (uvicorn main:app --reload)
+
 Utilizar o Postman ou Insomnia para realizar as requests!
 
 ⏬ GET /home
