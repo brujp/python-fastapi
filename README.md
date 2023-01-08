@@ -1,6 +1,8 @@
-# Primeira utilização do framework Fast API
+# Primeira utilização do framework FastAPI
 
 Primeira utilização do framework Fast API - Implementação de uma "api" super simples com apenas dois recursos
+
+Documentação do FastAPI: https://fastapi.tiangolo.com/
 
 ✅ Para acessar a documentação (Swagger), rodar a aplicação localmente e acessar: http://localhost:8000/docs
 
